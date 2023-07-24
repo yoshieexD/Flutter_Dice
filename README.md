@@ -1,5 +1,4 @@
-# todolist
-
+# Flutter Dice
 A new Flutter project.
 
 ## Getting Started
